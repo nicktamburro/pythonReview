@@ -30,3 +30,10 @@ print(x + y)
 
 #but, thankfully, you'll get an error if you do:
 print(x + album)
+
+"""NUMBER TYPES- python has int, float, and complex
+but you don't have to name them, it will just sort it out itself"""
+x = 1000
+y = 1.123
+z = 1j
+
