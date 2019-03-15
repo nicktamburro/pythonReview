@@ -42,6 +42,12 @@ z = 1j
 print(type(x))
 print(type(z))
 
+#if we want to specify a variable type, we use casting
+first = int(1)
+second = str("Lemmy")
+third = float(1.34)
+
+
 
 
 
