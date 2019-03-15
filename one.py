@@ -59,6 +59,20 @@ sixth = float(3)
 a = "hi how are you"
 print(a) #prints the string
 print(a[1]) #prints just letter i, index 1
+print(a[2:5]) #prints that range of indicies
+
+#strip is like trim in JS
+print(a.strip())  #takes off white space at front and back
+
+# len is like .length
+print(len(a))
+
+print(a.lower())  # .toLowerCase
+print(a.upper()) # .toUpperCase
+
+#replace
+print(a.replace("h", "j"))  #"ji jow are you"
+
 
 
 
