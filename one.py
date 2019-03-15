@@ -36,9 +36,13 @@ but you don't have to name them, it will just sort it out itself"""
 x = 1000
 y = 1.123
 z = 1j
+#j is the imaginary part of the number
 
-#and you can ask it what number type you have
+#and you can ask it what number class you have
 print(type(x))
 print(type(z))
+
+
+
 
 
