@@ -47,6 +47,20 @@ first = int(1)
 second = str("Lemmy")
 third = float(1.34)
 
+#also it will change it for you
+fourth = int("1")
+#will show 1
+fifth = str(1)
+#will be "1"
+sixth = float(3)
+#will be 3.0
+
+#for strings, single quotes = double quotes
+a = "hi how are you"
+print(a) #prints the string
+print(a[1]) #prints just letter i, index 1
+
+
 
 
 
