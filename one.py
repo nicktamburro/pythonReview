@@ -73,6 +73,8 @@ print(a.upper()) # .toUpperCase
 #replace
 print(a.replace("h", "j"))  #"ji jow are you"
 
+#split
+print(a.split(","))  #wherever there's a comma, it splits into separate strings on either side
 
 
 
