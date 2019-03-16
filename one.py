@@ -76,6 +76,10 @@ print(a.replace("h", "j"))  #"ji jow are you"
 #split
 print(a.split(","))  #wherever there's a comma, it splits into separate strings on either side
 
+#okay this is fun, command line input
+print("What up dog?")
+x = input()
+print("Yes I agree that " + x + " is what's up, dog.")
 
 
 
