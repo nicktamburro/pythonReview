@@ -81,6 +81,16 @@ print("What up dog?")
 x = input()
 print("Yes I agree that " + x + " is what's up, dog.")
 
+"""the math operators are much the same
++ - plus
+- - minus
+* - times
+/ - divided by
+% - modulus
+
+these are new:
+** - exponentation
+// floor division (like math.floor)
 
 
 
