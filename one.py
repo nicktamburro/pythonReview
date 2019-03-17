@@ -93,6 +93,7 @@ these are new:
 // floor division (like math.floor)
 
 give these all another look 
+and actually put them to use...
 =	x = 5	x = 5	
 +=	x += 3	x = x + 3	
 -=	x -= 3	x = x - 3	
@@ -111,6 +112,7 @@ give these all another look
 # ==, !=, >, <, >=, <=
 
 #we can also use the words
+#need to put these to real use
 #logical operators
 and
 or
