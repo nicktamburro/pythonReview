@@ -22,6 +22,7 @@ print(album)
 
 #concat is same as js
 print("He was in " + previousBand + " before he was in " + band + "."
+print(album + " is not by " + previousBand + " or " + band + ", it is by Rush.")
 
 # + will also add, if you give it numbers
 x = 100
