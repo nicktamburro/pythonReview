@@ -31,6 +31,9 @@ print(x + y)
 
 #but, thankfully, you'll get an error if you do:
 print(x + album)
+#but
+print(x + " " + album)
+#works
 
 """NUMBER TYPES- python has int, float, and complex
 but you don't have to name them, it will just sort it out itself"""
