@@ -14,6 +14,9 @@ previousBand = "Green River"
 print(band)
 print(previousBand)
 
+if band != 2
+    print("what are you even talking about?")
+    
 #var types can change, no problem
 album = 2112
 print(album)
